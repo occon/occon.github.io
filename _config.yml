@@ -63,8 +63,8 @@ author:
   bio    : "I'm a Computer Science and Engineering student at Tec de Monterrey. Web and mobile dev."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+      icon: "fas fa-fw fa-linkedin"
+      url: "http://linkedin.com/in/hugopalomares/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
