@@ -60,9 +60,9 @@ plugins:
 author:
   name   : "Hugo Palomares"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Computer Science and Engineering student at Tec de Monterrey. Web and mobile dev."
+  bio    : "I'm a Computer Science and Engineering student at Tec de Monterrey. Web and Mobile dev."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "http://linkedin.com/in/hugopalomares/"
     # - label: "Twitter"
