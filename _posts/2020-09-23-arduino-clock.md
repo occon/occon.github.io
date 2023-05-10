@@ -1,5 +1,5 @@
 ---
-title: "SARS-CoV'2 Analysis"
+title: "Arduino Clock"
 categories:
   - Personal Project
 tags:
